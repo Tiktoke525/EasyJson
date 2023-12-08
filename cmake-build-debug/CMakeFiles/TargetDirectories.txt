@@ -1,0 +1,3 @@
+/Users/tangkai/Desktop/Code/C++/EasyJson/cmake-build-debug/CMakeFiles/EasyJson.dir
+/Users/tangkai/Desktop/Code/C++/EasyJson/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/tangkai/Desktop/Code/C++/EasyJson/cmake-build-debug/CMakeFiles/rebuild_cache.dir
